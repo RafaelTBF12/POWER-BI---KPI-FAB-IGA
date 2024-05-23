@@ -3,7 +3,7 @@
 
 ## Entendimento do Problema
 
-Esse é repertório de BI criados para ajudar no processo de ideação dos seus trabalhos.
+Esse é um repertório de BI's e cases que participei, esse arquivo foi criado para ajudar no processo de ideação dos seus trabalhos.
 
 ### Dashboard para BMF - HNK Brasil
 
@@ -48,7 +48,7 @@ Esse é repertório de BI criados para ajudar no processo de ideação dos seus 
 ### Dashboard BSC
 
 <p align="center">
-   <img src= BSC 1.jpeg">
+   <img src= "BSC 1.jpeg">
 
 ### Dashboard Controle de Auditorias
 
