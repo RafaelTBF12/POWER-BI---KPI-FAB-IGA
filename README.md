@@ -18,7 +18,7 @@ Esse é repertório de BI criados para ajudar no processo de ideação dos seus 
 ### Dashboard perdas Envase
 
 <p align="center">
-   <img src= "PLANNER OSU.jpeg">
+   <img src= "PACK LOSS.jpeg">
 
 ### Dashboard para Acompanhamento de Execução de Cilt
 
