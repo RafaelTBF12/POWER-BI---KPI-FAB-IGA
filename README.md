@@ -23,12 +23,12 @@ Esse é repertório de BI criados para ajudar no processo de ideação dos seus 
 ### Dashboard para Acompanhamento de Execução de Cilt
 
 <p align="center">
-   <img src= "CILT.jpeg">
+   <img src= "T CILT.jpeg">
 
 ### Dashboard para Acompanhamento de Tempo de Cilt
 
 <p align="center">
-   <img src= "T CILT.jpeg">
+   <img src= "CILT.jpeg">
 
 ### Dashboard com KPI unificados
 
