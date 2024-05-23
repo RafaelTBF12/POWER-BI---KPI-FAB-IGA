@@ -54,7 +54,7 @@ Consolidação de indicadores de performance chave (KPIs) de diferentes áreas d
 Visualização e acompanhamento dos dias de operação sem falhas ou interrupções. Ajuda a identificar padrões e fatores que contribuem para a operação perfeita.
 
 <p align="center">
-   <img src= "PERFCT.jpeg">
+   <img src= "PERFECT.jpeg">
 
 ### Dashboard Logistica
 
