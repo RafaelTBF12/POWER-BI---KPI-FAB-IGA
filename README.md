@@ -3,7 +3,9 @@
 
 ## Entendimento do Problema
 
-Esse é um repertório de BI's e cases que participei, esse arquivo foi criado para ajudar no processo de ideação dos seus trabalhos.
+Bem-vindo ao repositório de dashboards e cases de Business Intelligence (BI). Este arquivo foi cuidadosamente elaborado para servir como uma fonte de inspiração e orientação para seus projetos de BI. Aqui, você encontrará uma coleção diversificada de exemplos práticos e estudos de caso nos quais participei, demonstrando uma ampla gama de aplicações e soluções em BI.
+
+Cada dashboard e case apresentado neste repositório visa ilustrar diferentes aspectos e técnicas de análise de dados, proporcionando insights valiosos que podem ser adaptados e aplicados aos seus próprios desafios de negócios. Nosso objetivo é fornecer uma base sólida para a ideação e desenvolvimento de suas iniciativas de BI, ajudando você a transformar dados em decisões estratégicas e ações informadas.
 
 ### Dashboard para BMF - HNK Brasil
 
