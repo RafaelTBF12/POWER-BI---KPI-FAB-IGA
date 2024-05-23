@@ -50,6 +50,16 @@ Esse é repertório de BI criados para ajudar no processo de ideação dos seus 
 <p align="center">
    <img src= BSC 1.jpeg">
 
+### Dashboard Dias Perfeitos
+
+<p align="center">
+   <img src= "AUDITORIAS.jpeg">
+
+### Dashboard Logistica
+
+<p align="center">
+   <img src= "OPI.jpeg">
+
 ### Passos Seguidos
 
 1. **Planejamento e Criação do Planner**:
