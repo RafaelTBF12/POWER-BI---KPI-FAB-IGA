@@ -43,12 +43,12 @@ Esse é repertório de BI criados para ajudar no processo de ideação dos seus 
 ### Dashboard Logistica
 
 <p align="center">
-   <img src= "LOGISTIC.jpeg">
+   <img src= "LOGISTICA.jpeg">
 
 ### Dashboard BSC
 
 <p align="center">
-   <img src= "PLANNER OSU.jpeg">
+   <img src= BSC 1.jpeg">
 
 ### Passos Seguidos
 
